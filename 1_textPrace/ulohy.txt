@@ -1,0 +1,28 @@
+EKG:
+ 1. poduloha
+ - zkusit namerit pocet tepu za minutu jen pocitove (v klidu sedet a jen vnimat srdce cca 10 - 15 sekund)
+ - zapsat do protokolu vypoctene BPM podle vzorce (teoreticky uvod)
+        namerene BPM za 10 sekund -> 6 * namereneBPM
+        namerene BPM za 15 sekund -> 4 * namereneBPM
+ - namerit BPM pomoci EKG a aplikace
+ - porovnat vysledky a uvest v protokolu (zaver)
+ - oba studenti z dvojice vyzkousi
+
+ 2. poduloha (kombinace EKG a EDA)
+ - napoji se EKG i EDA elektrody (BPM a casove statistiky zapsat do protokolu)
+ - nameri se nejake referencni hodnoty bez stresové záteže
+ - studenti se rozhodnou, co bude za stresovou zátež
+      - Stroopův test (urcovani barvy slova, ktere je napsane jinou barvou, napr. „cervena“ napsana modre)
+      - sledováni neprijemneho videa ci zvuku (pro arachnofobiky např. videa s pavouky - po vlastni uvaze a vyhledani napr na         youtube - uvest do protokolu, jake video to bylo)
+ - Vyhodnoceni a porovnani s referencnimi hodnotami namerene na zacatku
+ - druhy student z dvojice vyzkousi na jinem videu, postup je stejny
+
+3. poduloha (Biofeedback aplikace)
+ - nalepit EKG elektrody
+ - EKG se bude merit kontinualne, studenti uvidi signal v realnem case
+ - jeden student bude ovlivnovat frekvenci dychani, druhy vyhodnocuje v case jednotlive useky rychlosti dychani 
+   (napr.: od casu 5 az 15 s dychal pomalu s velkymi pauzami, od casu 15 az 35 s dychal klasickou frekvenci 15 dechu za minutu, do    casu 45 do 75 s dychal velmi rychle, od 80 do 95 s hyperventiloval) - o tomto se rozhodnou dopredu a rozmysli si, jak mereni       probehne
+ - po zmereni jednoho studenta se vymeni role
+
+
+EMG:
